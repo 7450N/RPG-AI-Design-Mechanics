@@ -2,7 +2,7 @@
 
 <div align="center">
 
-# 🗡️ Action RPG AI & Level Design
+# 🗡️ Action RPG AI Design
 *Game AI Assignment 3*
 
 <img src="https://img.shields.io/github/last-commit/7450N/Game-AI-Assignment-3?style=flat&logo=git&logoColor=white&color=0080ff" alt="last-commit">
